@@ -4,7 +4,13 @@ For that I use multiple ressources :
 - [Kaggle courses](https://www.kaggle.com/)
 - [freebootcamp.org](freebootcamp.org)
 - ['Intro to Data Science' of Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
-- sometimes I read on medium.com, but I prefere to read research on Deep Learning or Machine Learning it's amazing and it's on [Springer](https://link.springer.com/).</div>  
+- [The Morpheus Tutorials](https://www.youtube.com/@TheMorpheusTutorials)
+- [KI-Campus](https://ki-campus.org/)
+- [HackerRank](https://www.hackerrank.com/)
+- [CodinGame](https://www.codingame.com/start)
+- [Coursera](https://www.coursera.org/)
+- [edX](https://www.edx.org/)
+- sometimes I read on [medium.com](https://medium.com/), but I prefere to read research on Deep Learning or Machine Learning it's amazing and it's on [Springer](https://link.springer.com/).</div>
   
 
 ### <div align="center">Loading skills....</div>  
