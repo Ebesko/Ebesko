@@ -7,7 +7,7 @@ For that I use multiple ressources :
    - [X] [Intro to Machine Learning](https://github.com/Ebesko/Ebesko/blob/main/Esther%20Bosko%20-%20Intro%20to%20Machine%20Learning.png)
    - [X] [Intro to SQL](https://github.com/Ebesko/Ebesko/blob/main/Esther%20Bosko%20-%20Intro%20to%20SQL.png)
    - [X] [Intro to Deep Learning](https://github.com/Ebesko/Ebesko/blob/main/Esther%20Bosko%20-%20Intro%20to%20Deep%20Learning.png)
-   - [ ] Panda 
+   - [X] [Pandas](https://github.com/Ebesko/Ebesko/blob/main/Esther%20Bosko%20-%20Pandas.png)
 - [freebootcamp.org](freebootcamp.org)
    - [ ] [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 - ['Intro to Data Science' of Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
