@@ -9,7 +9,6 @@ For that I use multiple ressources :
    - [X] [Intro to Deep Learning](https://github.com/Ebesko/Ebesko/blob/main/Esther%20Bosko%20-%20Intro%20to%20Deep%20Learning.png)
    - [X] [Pandas](https://github.com/Ebesko/Ebesko/blob/main/Esther%20Bosko%20-%20Pandas.png)
 - [freebootcamp.org](freebootcamp.org)
-   - [ ] [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 - ['Intro to Data Science' of Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
 - [The Morpheus Tutorials](https://www.youtube.com/@TheMorpheusTutorials)
 - [KI-Campus](https://ki-campus.org/)
