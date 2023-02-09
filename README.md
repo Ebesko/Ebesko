@@ -8,6 +8,7 @@ For that I use multiple ressources :
    - [X] [Intro to SQL](https://github.com/Ebesko/Ebesko/blob/main/Esther%20Bosko%20-%20Intro%20to%20SQL.png)
    - [X] [Intro to Deep Learning](https://github.com/Ebesko/Ebesko/blob/main/Esther%20Bosko%20-%20Intro%20to%20Deep%20Learning.png)
    - [X] [Pandas](https://github.com/Ebesko/Ebesko/blob/main/Esther%20Bosko%20-%20Pandas.png)
+- [Hack the box - Academy](https://academy.hackthebox.com/)
 - [freebootcamp.org](freebootcamp.org)
 - ['Intro to Data Science' of Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
 - [The Morpheus Tutorials](https://www.youtube.com/@TheMorpheusTutorials)
@@ -16,7 +17,6 @@ For that I use multiple ressources :
 - [CodinGame](https://www.codingame.com/start)
 - [Coursera](https://www.coursera.org/)
 - [edX](https://www.edx.org/)
-- sometimes I read on [medium.com](https://medium.com/), but I prefere to read research on Deep Learning or Machine Learning it's amazing and it's on [Springer](https://link.springer.com/). (I am not gonna lie I don't understand everything)</div>
   
 
 ### <div align="center">Loading skills....</div>  
