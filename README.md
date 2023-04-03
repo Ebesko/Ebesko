@@ -8,6 +8,7 @@ For that I use multiple ressources :
    - [X] [Intro to SQL](https://github.com/Ebesko/Ebesko/blob/main/Esther%20Bosko%20-%20Intro%20to%20SQL.png)
    - [X] [Intro to Deep Learning](https://github.com/Ebesko/Ebesko/blob/main/Esther%20Bosko%20-%20Intro%20to%20Deep%20Learning.png)
    - [X] [Pandas](https://github.com/Ebesko/Ebesko/blob/main/Esther%20Bosko%20-%20Pandas.png)
+   - [X] [Intro to AI Ethics](https://github.com/Ebesko/Ebesko/blob/main/Esther%20Bosko%20-%20Intro%20to%20AI%20Ethics.png)
 - [Hack the box - Academy](https://academy.hackthebox.com/)
 - [freebootcamp.org](freebootcamp.org)
 - ['Intro to Data Science' of Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn)
