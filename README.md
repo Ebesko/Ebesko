@@ -33,7 +33,7 @@ For that I use multiple ressources :
 ###### Power BI Desktop 
    - Project 1 : [Project 1](https://github.com/Ebesko/Ebesko/blob/main/PBI_Project1.PNG)
       [(Source)](https://www.kaggle.com/datasets/anushabellam/trending-videos-on-youtube)
-   - Project 2 : [Project 2](https://github.com/Ebesko/Ebesko/blob/main/PBI_Project1.PNG](https://github.com/Ebesko/Ebesko/blob/main/PBI_Project2.gif ) 
+   - Project 2 : [Project 2](https://github.com/Ebesko/Ebesko/blob/main/PBI_Project2.gif ) 
       (Source : FH Bielefeld - Unternehmensportal, Stand : 17.04.23)
 <!---
 Ebesko/Ebesko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
