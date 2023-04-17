@@ -30,8 +30,11 @@ For that I use multiple ressources :
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>
 
-#### Power BI Desktop Project : [Here](https://github.com/Ebesko/Ebesko/blob/main/PBI_Project1.PNG)
-[From the Dataset 'Trending videos on Youtube'](https://www.kaggle.com/datasets/anushabellam/trending-videos-on-youtube)
+###### Power BI Desktop 
+   - Project 1 : [Project 1](https://github.com/Ebesko/Ebesko/blob/main/PBI_Project1.PNG)
+      [(Source)](https://www.kaggle.com/datasets/anushabellam/trending-videos-on-youtube)
+   - Project 2 : [Project 2](https://github.com/Ebesko/Ebesko/blob/main/PBI_Project1.PNG](https://github.com/Ebesko/Ebesko/blob/main/PBI_Project2.gif ) 
+      (Source : FH Bielefeld - Unternehmensportal, Stand : 17.04.23)
 <!---
 Ebesko/Ebesko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
