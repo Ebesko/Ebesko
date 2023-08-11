@@ -19,6 +19,8 @@ For that I use multiple ressources :
 - [CodinGame](https://www.codingame.com/start)
 - [Coursera](https://www.coursera.org/)
 - [edX](https://www.edx.org/)
+- [Openclassrooms](https://openclassrooms.com/fr/)
+- [Andrew Ng](https://www.youtube.com/@andrewyantakng/videos)
   
 
 ### <div align="center">Loading skills....</div>  
